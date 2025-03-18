@@ -1,12 +1,12 @@
-#🧠 EEG Signal Analysis & Classification
+# 🧠 EEG Signal Analysis & Classification
 This repository contains a Jupyter Notebook for analyzing and processing Electroencephalography (EEG) signals. It includes preprocessing techniques, feature extraction, and classification methods to analyze brainwave activity for various applications.
 
-##🚀 Features:
+## 🚀 Features:
 EEG Data Preprocessing: Noise removal, filtering, and normalization
 Feature Extraction: Time-domain, frequency-domain, and machine learning-based feature selection
 Classification & Prediction: Machine learning models (e.g., SVM, CNN, LSTM) for EEG pattern recognition
 Visualization: EEG signal plots, spectrograms, and statistical insights
-##📌 Applications:
+## 📌 Applications:
 Brain-Computer Interfaces (BCI)
 Cognitive state analysis
 Sleep stage classification
